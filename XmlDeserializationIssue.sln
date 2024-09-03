@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlDeserializationIssue", "XmlDeserializationIssue\XmlDeserializationIssue.csproj", "{55CB3C8B-422C-4DAE-B2A0-F2B7675F3A11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingConsoleApp", "WorkingConsoleApp\WorkingConsoleApp.csproj", "{FC93241E-30E4-450F-BB19-8DDB71EDC0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedProject", "SharedProject\SharedProject.csproj", "{D3386D42-B6E4-4FEE-A4B5-2BC0D209B46A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55CB3C8B-422C-4DAE-B2A0-F2B7675F3A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CB3C8B-422C-4DAE-B2A0-F2B7675F3A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CB3C8B-422C-4DAE-B2A0-F2B7675F3A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CB3C8B-422C-4DAE-B2A0-F2B7675F3A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC93241E-30E4-450F-BB19-8DDB71EDC0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC93241E-30E4-450F-BB19-8DDB71EDC0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC93241E-30E4-450F-BB19-8DDB71EDC0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC93241E-30E4-450F-BB19-8DDB71EDC0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3386D42-B6E4-4FEE-A4B5-2BC0D209B46A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3386D42-B6E4-4FEE-A4B5-2BC0D209B46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3386D42-B6E4-4FEE-A4B5-2BC0D209B46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3386D42-B6E4-4FEE-A4B5-2BC0D209B46A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
